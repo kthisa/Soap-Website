@@ -1,0 +1,122 @@
+nav{
+    background-color:black;
+    color: white;
+    border-style: solid;
+    border-color:yellow;
+    padding: 10px;
+}
+li,h1,ul{
+    display:inline;
+  
+}
+h1{
+    padding: 20px;
+    font-style:italic ;
+}
+ul{
+    margin-left: 50%;
+    color:yellow;
+}
+li:hover{
+    color:white;
+    cursor: pointer;
+}
+input{
+    width: 60%;
+    padding:15px;
+}
+.searchbar{
+    padding:5px;
+    text-align: center;
+}
+.image{
+    text-align: center;
+    padding:10px;
+    border-radius:15px 15px 15px 15px;
+}
+
+.Personal{
+    cursor:pointer;
+    font-family: Arial;
+     padding-left:180px; 
+     display:inline;
+     
+ }
+
+ .fabric{
+    cursor:pointer;
+     padding-left:190px;
+     display:inline;
+     
+ }
+
+ 
+ .Home{
+    cursor:pointer;
+     padding-left:190px;
+     display:inline;
+     
+ }
+ .dish{
+    cursor:pointer;
+     padding-left:190px;
+     display:inline;
+     
+ }
+
+.box1{
+    cursor:pointer;
+    border-width: 1px;
+    border-color:black;
+    font-family: Times New Roman;
+    border-style: solid;
+    width:220px;
+    height:220px;
+    display: inline-block;
+    
+}
+
+.box2{
+    
+    cursor:pointer;
+    border-width: 1px;
+    border-color:black;
+    font-family: Times New Roman;
+    border-style: solid;
+    width:219px;
+    height:239px;
+    display: inline-block;
+    
+}
+.box3{
+    
+    cursor:pointer;
+    border-width: 1px;
+    border-color:black;
+    font-family: Times New Roman;
+    border-style: solid;
+    width:222px;
+    height:220px;
+    display: inline-block;  
+}
+.products{
+    text-align: center;
+}
+
+.box1:hover{
+    background-color:rgb(221, 220, 220);
+    }
+
+    .box2:hover{
+        background-color:rgb(221, 220, 220);
+        }
+
+.box3:hover{
+background-color:rgb(221, 220, 220);
+}
+
+h2{
+    font-family:Arial;
+    color:black;
+    
+}
